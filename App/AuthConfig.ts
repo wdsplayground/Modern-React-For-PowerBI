@@ -1,8 +1,8 @@
 import { Configuration, PopupRequest } from "@azure/msal-browser";
 
 // Config Azure AD app setting to be passed to Msal on creation
-const TenantId = "11111111-1111-1111-1111-111111111111";
-const ClientId = "22222222-2222-2222-2222-222222222222";
+const TenantId = "0864897c-9929-43a9-a145-1c1bdcc482cb";
+const ClientId = "9d95cc52-8b1f-405e-8192-813c7c2b8250";
 
 export const msalConfig: Configuration = {
     auth: {

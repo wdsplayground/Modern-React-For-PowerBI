@@ -38,7 +38,7 @@ module.exports = {
       ]
     },
     compress: true,
-    port: 5000
+    port: 8080
   },
   experiments: {
     lazyCompilation: {
